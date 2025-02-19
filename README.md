@@ -14,7 +14,7 @@ Features
     Predefined Habits: The application comes with a set of predefined habits that are automatically added to the database if they don't already exist.
    Installation
    Clone the repository (bash):
-   git clone https://github.com/Taboh250/habit_tracker_2.git
+   git clone https://github.com/Taboh250/Habit_tracker_app_Backend.git
    cd habit-tracker
    Install dependencies (bash):
    Ensure you have Python 3.7 or later version installed. The application uses the click library for the CLI, which can be installed via pip:
